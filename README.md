@@ -1,4 +1,4 @@
-# CMPT-1105-function
+# CMPT 1105 | Function
 
 Divide and conquer is a strategy to divide the problem into a small subset of problems. This is to help you manage smaller problem and combine the solutions and solve the issues. If you want better definition, go look up Divide and Conquer Strategy.
 
@@ -24,7 +24,7 @@ def greet (name):
 greet(x)
 ```
 
-```
+```python
 def greetings():
         print("hello")
         main()
