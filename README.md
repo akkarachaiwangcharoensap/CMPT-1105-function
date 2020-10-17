@@ -8,13 +8,14 @@ def functionName:
   # your code goes here
 ```
 
-For example
+For examples
 ```python
 def hello ():
   print("Hello")
 
 hello()
 ```
+
 
 ```python
 x = "Aki"
@@ -23,6 +24,7 @@ def greet (name):
 
 greet(x)
 ```
+
 
 ```python
 def greetings():
