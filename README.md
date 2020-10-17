@@ -25,12 +25,14 @@ def greet (name):
 greet(x)
 ```
 
+Function workflow
 
 ```python
 def greetings():
         print("hello")
         main()
         print("Hola")
+        
 def main():
         print("I am in the main funtion")
 x=6
